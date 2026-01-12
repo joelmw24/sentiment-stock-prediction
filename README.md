@@ -5,7 +5,7 @@ It explores the relationship between **financial indicators, news sentiment and 
 
 The application allows users to **visualize market data**, **analyze technical indicators**, **explore sentiment signals**, and **run prediction models** on selected stocks.
 
-> ⚠️ This project is for academic and educational purposes only and does not constitute financial advice.
+> ⚠️ This project is for academic and educational purposes only
 
 ---
 
