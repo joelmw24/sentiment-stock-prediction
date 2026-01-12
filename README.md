@@ -114,17 +114,7 @@ streamlit run Home.py
 
 ---
 
-## Key Takeaways
-
-This project demonstrates:
-- An **end-to-end data analysis workflow** applied to financial markets  
-- The ability to combine **market data and sentiment analysis**  
-- Strong skills in **data visualization, interpretation and decision support**  
-- Practical experience with **Python-based analytical applications**  
-
----
-
 ## Author
 
 **Joël Mwemba**  
-Engineering student – Finance, Risk Management & Data Science  
+Engineering student
