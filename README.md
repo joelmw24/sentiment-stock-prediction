@@ -1,5 +1,7 @@
 # Sentiment analysis for stock price prediction
 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" />
+
 This project was developed during a **research-oriented internship** at **BINUS University (Indonesia)**.  
 It explores the relationship between **financial indicators, news sentiment and stock price movements**, through an **interactive Streamlit application**.
 
