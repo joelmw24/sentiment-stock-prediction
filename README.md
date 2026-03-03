@@ -9,7 +9,7 @@ The application allows users to **visualize market data**, **analyze technical i
 
 > ⚠️ This project is for academic and educational purposes only
 
----
+------------------------------------------------------------------------
 
 ## Project objectives
 
@@ -20,7 +20,7 @@ The main objectives of this project are to:
 - Explore **news sentiment signals** and their relationship with market dynamics  
 - Provide an **interactive decision-support tool** for data exploration and model interpretation  
 
----
+------------------------------------------------------------------------
 
 ## Overview
 
@@ -58,7 +58,7 @@ Each page focuses on a specific analytical aspect:
 - Evaluation of sentiment impact on model outputs  
 - Combined analysis of market data and sentiment signals  
 
----
+------------------------------------------------------------------------
 
 ## Data & methodology
 
@@ -69,20 +69,18 @@ Each page focuses on a specific analytical aspect:
   - Feature engineering combining price-based indicators and sentiment signals  
   - Predictive modeling with evaluation through visual comparison  
 
-The focus of the project is placed on **interpretation and analysis**, rather than purely on predictive accuracy.
-
----
+------------------------------------------------------------------------
 
 ## Technologies used
 
 - **Python**
-- **Streamlit** (interactive web application)
-- **Pandas / NumPy** (data manipulation)
-- **Matplotlib** (visualization)
-- **Scikit-learn / Statsmodels** (modeling and analysis)
-- **NLP tools** for sentiment processing
+- **Streamlit** 
+- **Pandas / NumPy**
+- **Matplotlib**
+- **Scikit-learn / Statsmodels** 
+- **NLP tools** 
 
----
+------------------------------------------------------------------------
 
 ## Repository structure
 
@@ -100,7 +98,7 @@ sentiment-stock-prediction/
 └── .gitignore
 ```
 
----
+------------------------------------------------------------------------
 
 ## How to run
 
@@ -113,8 +111,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run Home.py
 ```
-
----
+------------------------------------------------------------------------
 
 ## Author
 
